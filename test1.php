@@ -1,3 +1,4 @@
 <?php
-echo 5+5;
+echo 10-5;
+echo '<br />';
 phpinfo();
